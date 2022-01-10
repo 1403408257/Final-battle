@@ -13,7 +13,7 @@ export default {
   name: 'home',
   data() {
     return {
-      title: '你好，我是开发者B开发的内容！',
+      title: '你好，我是开发者AAAAAA开发的内容！',
     };
   },
   components: {
